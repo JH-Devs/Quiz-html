@@ -1,0 +1,69 @@
+1. 
+Frází „dělám frontend“ programátor říká, že:
+A. Označuje začátky a konce řádků patřičnými symboly v programovacím jazyku PHP.
+B. Pracuje na předběžném přístupu aplikace, těsně před jejím dokončením.
+C. Programuje uživatelské rozhraní webu. *SPRÁVNĚ*
+D. Pracuje výhradně v HTML a CSS.
+
+2. 
+Výrazem „vychytávání bugů“ se myslí:
+A. Situace, kdy programátoři refaktorují kód, aby restruktovali a tím vylepšili existující kód.
+B. Proces specializovaných firem, které se zaměřují na kvalitu kódu v rámci kybernetické bezpečnosti. V tomto případě jde o hledání digitálních štěnic.
+C. Činnost, v rámci které programátoři hledají vir.
+D. Činnost, kdy programátoři vychytávají softwarové chyby, tzv. bugy a tedy zjišťují a napravují to, co nefunguje. *SPRÁVNĚ*
+
+3. 
+Pojmem „knihovna“ se označuje:
+A. Slovník odborných pojmů týkajících se IT. OBsahuje veškerou známou terminologii z oblasti IT.
+B. Soubor předpřipravených kódů, které programátor může využít pro rychlejsí a lepší vývoj. Příkladem jedné z populárních knihoven je React. *SPRÁVNĚ*
+C. Knihovna, která souvisí se stránkováním paměti, což je metoda správy virtální paměti.
+D. Nástroj, který umožňuje snadnější hnedánív rámci vývojářského kódu.
+
+4. 
+Spojení „dáme to na ostrý“ znamená:
+A. Vytvoření hrubého náčrtu projektu, který se teprve bude ladit.
+B. Proces schvalování vyšším managementem.
+C. Tvorbu softwaru v jazyku C++, kterému programátoři přezdívají chilli.
+D. Vytvořená verze aplikace bude připravená online pro uživatele, odteď ji mohou používat. * SPRÁVNĚ* 
+
+5. 
+Výrazem “sandbox” se rozumí:
+A. Kontrolovaný prostor, ve kterém lze testovat aplikace. * SPRÁVNĚ* 
+B. Termín opět vychází z angličtiny. Sand v tomto smyslu znamená opískovat, tedy očistit od přebytečných věcí, které programátor/kodér již nebude potřebovat.
+C. Na pískovišti v jazyce programátorů probíhá ta nejtitěrnější práce, která vyžaduje absolutní soustředěnost.
+D. Pískoviště je důležitá část tvůrčího procesu. Jde víceméně o brainstorming, z něhož později vzejde myšlenka, které se bude následně celý tým stoprocentně věnovat.
+
+6. 
+Výrazem „fixnout to“ se rozumí:
+A. Zvýraznění problémů, na kterých je potřeba v budoucnu pracovat.
+B. Opravení chyb. * SPRÁVNĚ* 
+C. Zakonzervování projektu ve fázi, ve které se zrovna nachází.
+D. Stanovení podmínek, za kterých budou probíhat následující kroky.
+
+7. 
+Tvrzení „běží mi to na lokále“, znamená:
+A. Výsledný produkt je dostupný jenom v určitých regionech. 
+B. Programátor spouští program ze svého počítače, který právě používá * SPRÁVNĚ* 
+C. Programátor má přístup ke zdrojovému kódu pouze z konkrétní země.
+D. Programátor spouští program ze vzdáleného úložiště.
+
+8. 
+Co je v programátorském slangu „zdroják“?
+A. Pokud mezi programátory zmíníte, že hledáte zdroják, hledáte nejčastěji prvotní příčinu problému.
+B. Zdrojákem se myslí zdrojové materiály klienta, pro něhož programátoři vytváří kód/software. Jde o zadání, podle něhož programátor postupuje.
+C. Zdroják, jinak též zdrojový kód, je zápis v konkrétním programovacím jazyce, uložený jaký prostý text. * SPRÁVNĚ* 
+D. Zdroják je v programátorském slangu kostra dříve použitého kódu, který je možné použít i při práci na jiném produktu a nepodléhá autorským právům.
+
+9. 
+Když se programátor zeptá „na které seš větvi?“, co zjišťuje?
+A. Kód je rozdělený na jednotlivé řádky/větve a programátor se tak ptá, který řádek dotyčný upravuje.
+B. Programátor se snaží zjistit, ve které verzi kódu (větvi) jeho kolega či kolegyně pracuje. * SPRÁVNĚ* 
+C. Otázkou se programátor ptá, ve kterém oddělení zaměstnanec pracuje. Výraz pochází z anglického branch, což znamená konkrétní oddělení ve firmě.
+D. Otázka „na které seš větvi“ je slangové označení situace, kdy vývoj nejde podle plánu.
+
+10. 
+Když programátor „dělá backend“, co dělá?
+A. Programátor se soustředí na zpracovávání zálohy dat.
+B. Z důvodu chyby se programátor vrací k předchozí verzi softwaru.
+C. Pojem vychází z označení tenisového úderu. V programátorském slangu se tak začíná částmi, které jsou pro programátora obtížnější.
+D. Programátor je typicky zodpovědný za ukládání a manipulaci dat. * SPRÁVNĚ* 

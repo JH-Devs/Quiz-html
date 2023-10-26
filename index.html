@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kvíz - HTML, CSS, JS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <main class="main">
+        <header class="header">
+            <a href="#" class="logo">Kvíz </a>
+
+            <nav class="navbar">
+                <a href="#" class="active">Domů</a>
+                <a href="#">Kvízy</a>
+                <a href="#">Služby</a>
+                <a href="#">Kontakt</a>
+            </nav>
+        </header>
+        <div class="container">
+            <section class="quiz-section">
+                <div class="quiz-box">
+                    <h1>Kvízy od kvíz</h1>
+                    <div class="quiz-header">
+                        <span>Stránka s kvízy</span>
+                        <span class="header-score">Skore: 0 / 10</span>
+                    </div>
+                    <h2 class="question-text">Frází „dělám frontend“ programátor říká, že:</h2>
+                    <div class="option-list">
+                       <!--<div class="option">
+                            <span><b>A.</b> Označuje začátky a konce řádků patřičnými symboly v programovacím jazyku PHP.</span>
+                        </div>
+                        <div class="option">
+                            <span><b>B.</b> Pracuje na předběžném přístupu aplikace, těsně před jejím dokončením.</span>
+                        </div>
+                        <div class="option">
+                            <span><b>C.</b> Programuje uživatelské rozhraní webu.</span>
+                        </div>
+                        <div class="option">
+                            <span><b>D.</b> Pracuje výhradně v HTML a CSS.</span>
+                        </div>
+                        --> 
+                    </div>
+                    <div class="quiz-footer">
+                        <span class="question-total">1 z 10 otázek </span>
+                        <button class="next-btn">další</button>
+                    </div>
+                </div>
+                <div class="result-box">
+                    <h2>Výsledek kvízu! </h2>
+                    <div class="percentage-container">
+                        <div class="circular-progress">
+                            <span class="progress-value">0%</span>
+                        </div>
+                        <span class="score-text">Vaše skóre je 0 z 10</span>
+                    </div>
+                    <div class="buttons">
+                        <button class="tryAgain-btn">zkusit znovu</button>
+                        <button class="goHome-btn">domů</button>
+                    </div>
+                </div>
+            </section>
+
+            <section class="home">
+                <div class="home-content">
+                    <h1>Kvízy</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus molestiae dolorem eaque vel doloremque ratione ullam eum deleniti ipsam tempora illum quidem, recusandae dolor quos.</p>
+                    <button class="start-btn">Začít s kvízem</button>
+                </div>
+            </section>
+        </div>
+    </main>
+    <div class="popup-info">
+        <h2>Průvodce kvízem</h2>
+        <span class="info">1. Lorem ipsum dolor sit amet consectetur </span>
+        <span class="info">2. Lorem ipsum dolor sit amet consectetur adipisicing.</span>
+        <span class="info">3. Lorem ipsum dolor sit amet consectet.</span>
+        <span class="info">4. Lorem ipsum dolor sit amet cons.</span>
+        <span class="info">5. Lorem ipsum dolor sit amet consectetur adipisicing.</span>
+
+        <div class="btn-group">
+            <button class="info-btn exit-btn">ukončit kvíz </button>
+            <a href="#" class="info-btn continue-btn">pokračovat </a>
+        </div>
+    </div>
+
+    
+
+    <script src="./script.js"></script>
+    <script src="./questions.js"></script>
+</body>
+</html>
